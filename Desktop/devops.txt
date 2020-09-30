@@ -19,3 +19,6 @@ commit first then
 git pull 
 git push origin branch
 
+
+git checkout -b branchname
+
