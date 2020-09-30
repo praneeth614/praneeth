@@ -1,0 +1,5 @@
+linux basics 
+
+ls -lart
+cd /Desktop
+top

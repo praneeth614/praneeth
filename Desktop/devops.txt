@@ -1,3 +1,5 @@
+##############################################################
+
 git clone git@github.com:kanupra01/twinkle.git
 cd twinkle
 
@@ -18,4 +20,7 @@ git push origin pranneth
 commit first then
 git pull 
 git push origin branch
+
+
+###################################################
 
