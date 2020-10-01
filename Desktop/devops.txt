@@ -1,3 +1,5 @@
+##############################################################
+
 git clone git@github.com:kanupra01/twinkle.git
 cd twinkle
 
@@ -20,5 +22,5 @@ git pull
 git push origin branch
 
 
-git checkout -b branchname
+
 

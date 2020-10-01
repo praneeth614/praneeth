@@ -1,0 +1,9 @@
+linux basics 
+
+ls -lart
+cd /newfolder
+top
+
+
+
+hello world 
