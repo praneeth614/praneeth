@@ -1,5 +1,9 @@
 linux basics 
 
 ls -lart
-cd /Desktop
+cd /newfolder
 top
+
+
+
+hello world 
